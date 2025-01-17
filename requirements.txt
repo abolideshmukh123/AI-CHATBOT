@@ -1,0 +1,14 @@
+sentence-transfomers==2.2.2
+langchain
+flask
+pypdf
+python-dotenv
+pinecone[grpc]
+langchain_pinecone
+langchain_community
+langchain_openai
+langchain_experimental
+numpy>=1.21.0
+pandas
+scikit-learn
+-e .
